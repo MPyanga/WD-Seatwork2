@@ -1,1 +1,0 @@
-(div>(nav>ul>li*5>a)+h1+p+div>a>button)+(div>h2+p+a>button)+(div>div*3>img+h3+p)+(div>h2+p+div>ul*3>li*3>img+p)+(div>div>ul>li*4>img+h3+p)+(div>h2+p+(ul>(li>img)+(li*3>p))+div>div*6>img)+(div>(div>img)+div>h4+p+br+p)+(footer>h2+p+(div>(div*3>input:text)+(div>email)+(div>submit))+(div>img+(div>ul>li*3>img+p)+(div>ul>li*5>img)))
